@@ -1,3 +1,23 @@
-Engineering Design 6
-
-Deven Shah - Contaxt Group
+# CPE-322-A 
+_________________________________
+## Engineering Design 6
+#### Assignments
+     Assignment 0: GitHub Repository
+     Assignment 1: Project Site
+     Assignment 2: Needs Assessment
+     Assignment 3: Problem Formulation
+     Assignment 4: Solution Development
+     Assignment 5: Intellectual Properties
+     Assignment 6: Abstraction and Modeling
+     Assignment 7: Synthesis
+     Assignment 8.1 and 9.1: Ethical Issues
+     Assignment 8.2 and 9.2: Product Liability
+     Assignment 8.3 and 9.3: Social Impacts
+     Assignment 10: Design Analysis
+     Assignment 11.1: Design Diagrams
+     Assignment 11.2: Gantt Chart
+     Assignment 11.3: Senior Design Plan
+_______________________________
+## Deven Shah - Contaxt Group
+_______________________________________
+### Lab 1 - GHDL and GTKWave
