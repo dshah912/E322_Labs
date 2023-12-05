@@ -1,6 +1,9 @@
 # CPE-322-A 
+___________________________________
+## Deven Shah 
+## Project Team Name: Contaxt
 _________________________________
-## Engineering Design 6
+# Engineering Design 6
 ### Assignments
      Assignment 0: GitHub Repository
      Assignment 1: Project Site
@@ -19,8 +22,13 @@ _________________________________
      Assignment 11.3: Senior Design Plan
 ### Labs
      Lab 1: GHDL GTKWave
-_______________________________
-## Deven Shah 
-### Project Team Name: Contaxt
 _______________________________________
-### Lab 1 - GHDL and GTKWave
+# Lab 1 - GHDL and GTKWave
+## Instructions:
+     .Go to the GHDL folder
+     .Install GHDL and GTKWave
+     .Run the Half Adder example
+     .Run another example such as D Flip-Flop or 4-to-1 Multiplexer
+     .Document the results on your GitHub repository
+
+
