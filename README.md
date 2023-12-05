@@ -1,7 +1,7 @@
 # CPE-322-A 
 _________________________________
 ## Engineering Design 6
-#### Assignments
+### Assignments
      Assignment 0: GitHub Repository
      Assignment 1: Project Site
      Assignment 2: Needs Assessment
@@ -17,7 +17,10 @@ _________________________________
      Assignment 11.1: Design Diagrams
      Assignment 11.2: Gantt Chart
      Assignment 11.3: Senior Design Plan
+### Labs
+     Lab 1: GHDL GTKWave
 _______________________________
-## Deven Shah - Contaxt Group
+## Deven Shah 
+### Project Team Name: Contaxt
 _______________________________________
 ### Lab 1 - GHDL and GTKWave
