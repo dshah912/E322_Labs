@@ -30,7 +30,13 @@ _______________________________________
      .Run the Half Adder example
      .Run another example such as D Flip-Flop or 4-to-1 Multiplexer
      .Document the results on your GitHub repository
-
-<a herf="https://github.com/kevinwlu/dsd/tree/master/ghdl">GHDL</a>
+## Half-Adder Example Code:
+     $ ghdl -a ha.vhdl
+     $ ghdl -a ha_tb.vhdl
+     $ ghdl -e ha_tb
+     $ ghdl -r ha_tb --vcd=ha.vcd
+     ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test
+     $ export DISPLAY=:0
+     $ gtkwave ha.vcd
 
 
