@@ -55,6 +55,9 @@ _______________________________________
      $ export DISPLAY=:0
      $ gtkwave mux.vcd
 ![215922535-51b057cb-b620-4328-a0d8-d7ac483074b9](https://github.com/dshah912/E322_Labs/assets/144179870/a5bff104-2e0a-49cf-87e5-280988f0b8b4)
-
-
+# Lab 2 - Command Line
+### .I used Oracle Virtual Box to run Ubuntu to perform these commands 
+     $ hostname 
+     $ env
+![Screenshot 2023-12-14 201254](https://github.com/dshah912/E322_Labs/assets/144179870/cbc0e6f1-dde9-438c-92a5-f58e24c4d719)
 
