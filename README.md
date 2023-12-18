@@ -117,4 +117,4 @@ _______________________________________
 ![Screenshot 2023-12-18 125832](https://github.com/dshah912/E322_Labs/assets/144179870/caf80716-6ef3-42d7-9a6c-b5842974e925)
 #### Then ran 
      $ py say_hello.py
-![Screenshot 2023-12-18 125807](https://github.com/dshah912/E322_Labs/assets/144179870/df9858e4-0846-4f71-9cbe-569d048a55b6)
+![Screenshot 2023-12-18 125807](https://github.com/dshah912/E322_Labs/assets/144179870/5a534b5f-bf7a-446c-add4-06def059baaf)
