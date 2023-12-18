@@ -22,6 +22,8 @@ _________________________________
      Assignment 11.3: Senior Design Plan
 ### Labs
      Lab 1: GHDL GTKWave
+     Lab 2 - Command Line
+     Lab 6 - Node.js and Pystache
 _______________________________________
 # Lab 1 - GHDL and GTKWave
 ## Instructions:
@@ -56,8 +58,68 @@ _______________________________________
      $ gtkwave mux.vcd
 ![215922535-51b057cb-b620-4328-a0d8-d7ac483074b9](https://github.com/dshah912/E322_Labs/assets/144179870/a5bff104-2e0a-49cf-87e5-280988f0b8b4)
 # Lab 2 - Command Line
-### .I used Oracle Virtual Box to run Ubuntu to perform these commands 
+##### . I used WSL in Windows powershell to execute these commands 
      $ hostname 
      $ env
 ![Screenshot 2023-12-14 201254](https://github.com/dshah912/E322_Labs/assets/144179870/cbc0e6f1-dde9-438c-92a5-f58e24c4d719)
 
+     $ ps
+     $ pwd 
+     $ git clone https://github.com/kevinwlu/iot.git
+     $ cd iot
+     $ ls
+     $ cd
+![Screenshot 2023-12-14 202839](https://github.com/dshah912/E322_Labs/assets/144179870/b6db055c-c109-4718-9ae0-71f1922f218a)
+
+     $ df
+     $ mkdir demo
+     $ cd demo
+     $ nano file
+     $ cat file
+     $ cp file file1
+     $ mv file file2
+     $ rm file2
+![Screenshot 2023-12-15 132659](https://github.com/dshah912/E322_Labs/assets/144179870/c44495e7-43d9-4aba-8f12-a6de9c1144b6)
+     
+     $ clear
+![Screenshot 2023-12-15 132904](https://github.com/dshah912/E322_Labs/assets/144179870/6dc9b848-f9eb-4dd0-b038-fcdbd7eafdb5)
+
+     $ man uname 
+![Screenshot 2023-12-15 133037](https://github.com/dshah912/E322_Labs/assets/144179870/8b7e629b-9597-4636-8359-a7ef5e89b380)
+
+     $ uname -a
+     $ ifconfig
+![Screenshot 2023-12-15 133254](https://github.com/dshah912/E322_Labs/assets/144179870/885cf262-b58f-489d-8a3c-9cb8f9aac5e5)
+
+     $ ping localhost
+     $ netstat
+![Screenshot 2023-12-15 153522](https://github.com/dshah912/E322_Labs/assets/144179870/5a9e2c2d-ba86-4480-9223-1c92a60c5418)
+# Lab 3 - Python
+     $ sudo apt install python3-pip
+     $ sudo pip3 install jdcal
+     $ sudo pip3 install astral
+     $ sudo pip3 install geopy
+     
+# Lab 6 - Node.js and Pystache
+##### .Install Node.js and run hello-world.js, hello.js, and http.js
+##### .Install Pystache and run say_hello.py that uses the template in say_hello.mustache
+#### First install Node.js
+![Screenshot 2023-12-18 122713](https://github.com/dshah912/E322_Labs/assets/144179870/be4626b2-2782-4b98-8c5a-5d3142cee341)
+#### Once installed I ran the below code to create a server
+     $ node hello-world.js
+![Screenshot 2023-12-18 123111](https://github.com/dshah912/E322_Labs/assets/144179870/c883a512-90c6-425a-bdf6-2f87ce4234e5)
+![Screenshot 2023-12-18 123122](https://github.com/dshah912/E322_Labs/assets/144179870/ed7efa6a-00c1-4ae0-b5e9-fad9ce9cb6a4)
+#### Next     
+     $ node hello.js
+![Screenshot 2023-12-18 123914](https://github.com/dshah912/E322_Labs/assets/144179870/28c7d9e6-4913-4acf-b52f-9b6a7d726768)
+##### The server ran but received an error preventing us from seeing the file contents
+![Screenshot 2023-12-18 124904](https://github.com/dshah912/E322_Labs/assets/144179870/11697af2-7c9a-4ce5-a1ec-d7fa4a1d4c57)
+##### Next
+     $ node http.js
+###### The server ran once again but this time no output was produced (no url address)
+![Screenshot 2023-12-18 124731](https://github.com/dshah912/E322_Labs/assets/144179870/99a123b8-f078-4623-8b67-e99d6fce0dcc)
+#### Installed Pystatche
+![Screenshot 2023-12-18 125832](https://github.com/dshah912/E322_Labs/assets/144179870/caf80716-6ef3-42d7-9a6c-b5842974e925)
+#### Then ran 
+     $ py say_hello.py
+![Screenshot 2023-12-18 125807](https://github.com/dshah912/E322_Labs/assets/144179870/df9858e4-0846-4f71-9cbe-569d048a55b6)
