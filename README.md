@@ -58,7 +58,7 @@ _______________________________________
      $ gtkwave mux.vcd
 ![215922535-51b057cb-b620-4328-a0d8-d7ac483074b9](https://github.com/dshah912/E322_Labs/assets/144179870/a5bff104-2e0a-49cf-87e5-280988f0b8b4)
 # Lab 2 - Command Line
-##### . I used WSL in Windows powershell to execute these commands 
+##### . I used WSL in Windows PowerShell to execute these commands (virtual box used first then I switched) 
      $ hostname 
      $ env
 ![Screenshot 2023-12-14 201254](https://github.com/dshah912/E322_Labs/assets/144179870/cbc0e6f1-dde9-438c-92a5-f58e24c4d719)
@@ -94,12 +94,7 @@ _______________________________________
      $ ping localhost
      $ netstat
 ![Screenshot 2023-12-15 153522](https://github.com/dshah912/E322_Labs/assets/144179870/5a9e2c2d-ba86-4480-9223-1c92a60c5418)
-# Lab 3 - Python
-     $ sudo apt install python3-pip
-     $ sudo pip3 install jdcal
-     $ sudo pip3 install astral
-     $ sudo pip3 install geopy
-     
+
 # Lab 6 - Node.js and Pystache
 ##### .Install Node.js and run hello-world.js, hello.js, and http.js
 ##### .Install Pystache and run say_hello.py that uses the template in say_hello.mustache
@@ -109,12 +104,12 @@ _______________________________________
      $ node hello-world.js
 ![Screenshot 2023-12-18 123111](https://github.com/dshah912/E322_Labs/assets/144179870/c883a512-90c6-425a-bdf6-2f87ce4234e5)
 ![Screenshot 2023-12-18 123122](https://github.com/dshah912/E322_Labs/assets/144179870/ed7efa6a-00c1-4ae0-b5e9-fad9ce9cb6a4)
-#### Next     
+#### Next I ran hello.js    
      $ node hello.js
 ![Screenshot 2023-12-18 123914](https://github.com/dshah912/E322_Labs/assets/144179870/28c7d9e6-4913-4acf-b52f-9b6a7d726768)
 ##### The server ran but received an error preventing us from seeing the file contents
 ![Screenshot 2023-12-18 124904](https://github.com/dshah912/E322_Labs/assets/144179870/11697af2-7c9a-4ce5-a1ec-d7fa4a1d4c57)
-##### Next
+##### Next I ran http.js
      $ node http.js
 ###### The server ran once again but this time no output was produced (no url address)
 ![Screenshot 2023-12-18 124731](https://github.com/dshah912/E322_Labs/assets/144179870/99a123b8-f078-4623-8b67-e99d6fce0dcc)
